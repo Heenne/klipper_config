@@ -1,3 +1,4 @@
 printer-*
 .mainsail.json
 **/.variables.stb
+**/.DS_Store
